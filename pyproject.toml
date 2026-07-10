@@ -1,0 +1,7 @@
+[project]
+name = "llm-mechanisms"
+version = "0.1.0"
+description = "Hands-on notebooks for tokenization, index mapping, and simple text encoding workflows."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
